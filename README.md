@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tabuke Ezekiel</h1>
-<h3 align="center">Full Stack Web Developer | React • Node.js • TypeScript • MongoDB</h3>
+<h3 align="center">Full Stack Web Developer | React • Node.js • TypeScript • MongoDB • Nextjs</h3>
 
 <p align="center">
-  <img src="https://ezekieltabukewebsite.netlify.app/image1.jpg" width="200" style="border-radius:50%" alt="Tabuke Ezekiel" />
+  <img src="https://gemini.google.com/share/399b72c5cc81" width="275" alt="Tabuke Ezekiel" />
 </p>
 
 <p align="center">
   <a href="https://ezekieltabukewebsite.netlify.app">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">💼 LinkedIn</a> •
-  <a href="mailto:YOUR-EMAIL">📧 Email</a>
+  <a href="https://www.linkedin.com/in/ezekiel-tabuke-5829a4383/">💼 LinkedIn</a> •
+  <a href="mailto:tabukeezekiel9@gmail.com">📧 Email</a>
 </p>
 
 ---
@@ -18,8 +18,8 @@
 - 🔭 I'm currently working on **full stack web applications**
 - 🌱 I'm currently learning **advanced TypeScript, system design, and cloud deployment**
 - 💬 Ask me about **React, Node.js, Express, MongoDB, Tailwind CSS**
-- 📍 Based in **[Your City, Country]**
-- ⚡ Fun fact: [Something personal and memorable]
+- 📍 Based in **[Lagos State, Nigeria]**
+- ⚡ Fun fact: I'm a nerd dude who don't watch movies and some how with code never gets bored 😁✌🏽.
 
 ---
 
@@ -49,7 +49,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ezekiel-web-dev-17&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ezekiel-web-dev-17&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezekiel-web-dev-17&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -60,7 +60,5 @@
 I'm always open to collaborating on projects and learning from others. Feel free to reach out!
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://ezekieltabukewebsite.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ezekiel-web-dev-17&theme=radical" alt="GitHub Streak" />
 </p>
