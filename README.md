@@ -58,7 +58,8 @@
 ### 🤝 Let's Connect
 
 I'm always open to collaborating on projects and learning from others. Feel free to reach out!
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ezekiel-web-dev-17&theme=radical" alt="GitHub Streak" />
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://ezekieltabukewebsite.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
