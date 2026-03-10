@@ -2,8 +2,7 @@
 <h3 align="center">Full Stack Web Developer | React • Node.js • TypeScript • MongoDB • Nextjs</h3>
 
 <p align="center">
-  <img src="<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/76a958c6-e2e7-4f70-ae51-f705565e32cc" />
-" width="275" alt="Tabuke Ezekiel" />
+  <img src="<img width="1024" height="559" alt="image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/196257528/560618859-76a958c6-e2e7-4f70-ae51-f705565e32cc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260310%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260310T001224Z&X-Amz-Expires=300&X-Amz-Signature=abb6d0415aaac22bda2aa4006e49be49eeec2df5d3c0edb4028ed4a871ec31d5&X-Amz-SignedHeaders=host" width="275" alt="Tabuke Ezekiel" />
 </p>
 
 <p align="center">
@@ -51,7 +50,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ezekiel-web-dev-17&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezekiel-web-dev-17&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
