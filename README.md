@@ -2,7 +2,8 @@
 <h3 align="center">Full Stack Web Developer | React • Node.js • TypeScript • MongoDB • Nextjs</h3>
 
 <p align="center">
-  <img src="https://gemini.google.com/share/399b72c5cc81" width="275" alt="Tabuke Ezekiel" />
+  <img src="<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/76a958c6-e2e7-4f70-ae51-f705565e32cc" />
+" width="275" alt="Tabuke Ezekiel" />
 </p>
 
 <p align="center">
@@ -59,7 +60,7 @@
 
 I'm always open to collaborating on projects and learning from others. Feel free to reach out!
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ezekiel-tabuke-5829a4383/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tabukeezekiel9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://ezekieltabukewebsite.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
