@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer | React • Node.js • TypeScript • MongoDB • Nextjs</h3>
 
 <p align="center">
-  <img src="<img width="1024" height="559" alt="image" src="https://res.cloudinary.com/dmmwtmq9f/image/upload/v1773102193/560618859-76a958c6-e2e7-4f70-ae51-f705565e32cc_hqa2tl.png" width="275" alt="Tabuke Ezekiel" />
+  <img src="https://res.cloudinary.com/dmmwtmq9f/image/upload/v1773102193/560618859-76a958c6-e2e7-4f70-ae51-f705565e32cc_hqa2tl.png" width="275" alt="Tabuke Ezekiel" />
 </p>
 
 <p align="center">
